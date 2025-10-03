@@ -13,13 +13,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, Android Studio
 
-## 📈 GitHub Stats
-![hengvisoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hengvisoth&show_icons=true&theme=tokyonight)
-
-## Most Used Languages
-![hengvisoth's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hengvisoth&size_weight=0.5&count_weight=0.5)
-
-
 <!-- ## 📚 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
