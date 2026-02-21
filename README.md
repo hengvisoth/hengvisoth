@@ -13,13 +13,4 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, Android Studio
 
-<!-- ## 📚 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-## 🎯 Goals for 2025
-- Contribute to open-source projects more frequently.
-- Improve my skills in AI and machine learning.
-- Build and deploy a full-stack application on the cloud.
-
-Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
